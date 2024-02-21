@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 1c588e17-d340-4175-a9bc-eb8fc08c6160
-  WEBAPP-NAME: eshoponweb-webapp-Zeludas
+  WEBAPP-NAME: eshoponweb-webapp-Zeludas1
 
 
 jobs:
